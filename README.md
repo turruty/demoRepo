@@ -1,3 +1,3 @@
 #Démo
 
-C'est un projet démo
+C'est un projet démo!
